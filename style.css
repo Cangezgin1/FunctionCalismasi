@@ -1,0 +1,27 @@
+h1{
+    font-size: large;
+    font-style: italic;
+}
+#ilksayı{
+    background-color: rgb(243, 243, 155);
+}
+#ikincisayı{
+    background-color: rgb(243, 243, 155);
+}
+.Btn{
+    background-color:rgb(112, 112, 231) ;
+    font-size: large;
+    font-style: oblique;
+}
+body{
+    background-image: url(resim123.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.text-center h1{
+    color:rgb(112, 112, 231) ;
+}
+.text-center{
+    position: relative;
+    top: 150px;
+}
